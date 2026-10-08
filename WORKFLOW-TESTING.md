@@ -5,7 +5,7 @@ This guide shows how to test the new Phase 4 (Loop) and Phase 5 (Interactive) wo
 ## Quick Start
 
 ```bash
-cd /Users/layne/Development/genai/dev3
+cd /path/to/your/codi/checkout
 pnpm dev
 ```
 
